@@ -63,25 +63,6 @@ Designed and implemented a secure enterprise network architecture to protect org
 * Secure VPN access
 * Real-time monitoring
 
----
-
-## Proof of Concept
-
-### Firewall Configuration
-
-![Firewall](images/firewall.png)
-
----
-
-### IDS Detection (Snort)
-
-![IDS](images/ids.png)
-
----
-
-### VPN Connection
-
-![VPN](images/vpn.png)
 
 ---
 
